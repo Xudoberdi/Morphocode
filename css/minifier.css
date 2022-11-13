@@ -405,3 +405,21 @@ hr {
 .footer-pic {
   margin-right: 8px;
 }
+a:hover {
+  color: gold;
+}
+a:active {
+  color: crimson;
+}
+button:hover {
+  background-color: mediumblue;
+  color: moccasin;
+}
+button:active {
+  background-color: chartreuse;
+  color: #000;
+}
+.input:hover {
+  background: #000;
+  color: #fff;
+}
